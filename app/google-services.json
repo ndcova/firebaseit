@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "412653904418",
+    "firebase_url": "https://xperia-6cb2f.firebaseio.com",
+    "project_id": "xperia-6cb2f",
+    "storage_bucket": "xperia-6cb2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412653904418:android:79432d2a7cd1c5ac",
+        "android_client_info": {
+          "package_name": "com.example.nd.sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412653904418-e7d1lcpe1aefksu8sulrucn6tdq9rmel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqs_OTukBnycMT5BJ7w9YMP25iD3sOcYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
